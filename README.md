@@ -1,5 +1,7 @@
 # contact
 
-[![Build status](	https://img.shields.io/github/issues/T-Mahfouz/contact.svg)](https://github.com/T-Mahfouz/contact/issues) [![Linux Build Status](https://travis-ci.org/atom/atom.svg?branch=master)](https://travis-ci.org/atom/atom) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/1tkktwh654w07eim?svg=true)](https://ci.appveyor.com/project/Atom/atom)
-[![Dependency Status](https://david-dm.org/atom/atom.svg)](https://david-dm.org/atom/atom)
-[![Join the Atom Community on Slack](https://atom-slack.herokuapp.com/badge.svg)](https://atom-slack.herokuapp.com)
+[![Build status](	https://img.shields.io/github/issues/T-Mahfouz/contact.svg)](https://github.com/T-Mahfouz/contact/issues) 
+[![Linux Build Status](https://img.shields.io/github/forks/T-Mahfouz/contact.svg)](https://github.com/T-Mahfouz/contact/network/members) 
+[![Windows Build Status](	https://img.shields.io/github/stars/T-Mahfouz/contact.svg)](https://github.com/T-Mahfouz/contact/stargazers)
+[![Dependency Status](https://img.shields.io/twitter/url/https/github.com/T-Mahfouz/contact.svg?style=social
+)](https://twitter.com/tarekma7fouz)
