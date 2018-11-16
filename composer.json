@@ -1,0 +1,19 @@
+{
+    "name": "mahfouz/contact",
+    "description": "It's my first package, it's a test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tarek Mahfouz",
+            "email": "timahfouz262@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mahfouz\\Contact\\": "src/"
+        }
+    },
+}
